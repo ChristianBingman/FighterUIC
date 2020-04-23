@@ -48,7 +48,11 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
+<<<<<<< HEAD
   controlID: 60
+=======
+  controlID: 15
+>>>>>>> parent of 13fb76f... Base work
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +223,11 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 61
+=======
+  controlID: 16
+>>>>>>> parent of 13fb76f... Base work
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +252,11 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 62
+=======
+  controlID: 17
+>>>>>>> parent of 13fb76f... Base work
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -349,9 +361,15 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 64330000
     m_LastClickedID: 13156
     m_ExpandedIDs: 000000005e33000000ca9a3b
+=======
+    m_SelectedIDs: b6330000
+    m_LastClickedID: 13238
+    m_ExpandedIDs: 00000000b633000000ca9a3b
+>>>>>>> parent of 13fb76f... Base work
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -379,7 +397,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 000000005e330000
+=======
+    m_ExpandedIDs: 00000000b6330000
+>>>>>>> parent of 13fb76f... Base work
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -496,15 +518,25 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 75
+<<<<<<< HEAD
     width: 247
+=======
+    width: 248
+>>>>>>> parent of 13fb76f... Base work
     height: 405
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
       m_SelectedIDs: d2340000
       m_LastClickedID: 0
       m_ExpandedIDs: 30faffff48faffff90faffffb2faffffc0faffffcefaffff50fbffff
+=======
+      m_SelectedIDs: c8f8ffff
+      m_LastClickedID: -1848
+      m_ExpandedIDs: 4efbffff
+>>>>>>> parent of 13fb76f... Base work
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -549,9 +581,15 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 248
     y: 75
     width: 754
+=======
+    x: 249
+    y: 75
+    width: 753
+>>>>>>> parent of 13fb76f... Base work
     height: 405
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
@@ -564,9 +602,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: 0, y: 0, z: 0}
     speed: 2
     m_Value: {x: 0, y: 0, z: 0}
+=======
+    m_Target: {x: 4.8158803, y: -0.027761605, z: 7.95332}
+    speed: 2
+    m_Value: {x: 4.8158803, y: -0.027761605, z: 7.95332}
+>>>>>>> parent of 13fb76f... Base work
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -612,6 +656,7 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
+<<<<<<< HEAD
     m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
     speed: 2
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
@@ -619,6 +664,15 @@ MonoBehaviour:
     m_Target: 8.4352865
     speed: 2
     m_Value: 7.9834213
+=======
+    m_Target: {x: 0.05640508, y: 0.28066844, z: -0.016526038, w: 0.9580089}
+    speed: 2
+    m_Value: {x: -0.05640508, y: -0.28066844, z: 0.016526038, w: -0.9580089}
+  m_Size:
+    m_Target: 10
+    speed: 2
+    m_Value: 10
+>>>>>>> parent of 13fb76f... Base work
   m_Ortho:
     m_Target: 0
     speed: 2
