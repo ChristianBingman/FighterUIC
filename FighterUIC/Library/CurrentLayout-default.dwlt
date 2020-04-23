@@ -14,8 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 0
     y: 45
+=======
+    x: 8
+    y: 51
+>>>>>>> parent of f56a40a... Maya Import Test
     width: 1280
     height: 755
   m_ShowMode: 4
@@ -48,7 +53,11 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
+<<<<<<< HEAD
   controlID: 15
+=======
+  controlID: 55
+>>>>>>> parent of f56a40a... Maya Import Test
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +228,11 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 16
+=======
+  controlID: 98
+>>>>>>> parent of f56a40a... Maya Import Test
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +257,11 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 17
+=======
+  controlID: 99
+>>>>>>> parent of f56a40a... Maya Import Test
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -255,7 +272,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: SceneView
+  m_Name: 
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -320,8 +337,13 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 0
     y: 501
+=======
+    x: 8
+    y: 507
+>>>>>>> parent of f56a40a... Maya Import Test
     width: 1003
     height: 258
   m_ViewDataDictionary: {fileID: 0}
@@ -344,14 +366,20 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/christianbingman/Documents/GitHub/FighterUIC/FighterUIC
+  m_LastProjectPath: C:\Users\aweso\OneDrive\Documents\GitHub\FighterUIC\FighterUIC
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 5e330000
     m_LastClickedID: 13150
     m_ExpandedIDs: 000000005e33000000ca9a3b
+=======
+    m_SelectedIDs: a2330000
+    m_LastClickedID: 13218
+    m_ExpandedIDs: 00000000a233000000ca9a3b
+>>>>>>> parent of f56a40a... Maya Import Test
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -379,7 +407,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 000000005e330000
+=======
+    m_ExpandedIDs: 00000000a2330000
+>>>>>>> parent of f56a40a... Maya Import Test
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -406,7 +438,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -456,8 +488,13 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1004
     y: 75
+=======
+    x: 1012
+    y: 81
+>>>>>>> parent of f56a40a... Maya Import Test
     width: 275
     height: 684
   m_ViewDataDictionary: {fileID: 0}
@@ -494,17 +531,29 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 0
     y: 75
     width: 247
+=======
+    x: 8
+    y: 81
+    width: 248
+>>>>>>> parent of f56a40a... Maya Import Test
     height: 405
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
       m_SelectedIDs: 6cfbffff
       m_LastClickedID: -1172
       m_ExpandedIDs: 6cfbffff
+=======
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 4cfbffff
+>>>>>>> parent of f56a40a... Maya Import Test
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -520,7 +569,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
+        m_ClientGUIView: {fileID: 4}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -549,9 +598,15 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 248
     y: 75
     width: 754
+=======
+    x: 257
+    y: 81
+    width: 753
+>>>>>>> parent of f56a40a... Maya Import Test
     height: 405
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
@@ -564,9 +619,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: 0, y: 0, z: 0}
     speed: 2
     m_Value: {x: 0, y: 0, z: 0}
+=======
+    m_Target: {x: -3.862139, y: -0.66036826, z: 14.076797}
+    speed: 2
+    m_Value: {x: -3.862139, y: -0.66036826, z: 14.076797}
+>>>>>>> parent of f56a40a... Maya Import Test
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -614,11 +675,19 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
     speed: 2
+<<<<<<< HEAD
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_Size:
     m_Target: 131.6359
     speed: 2
     m_Value: 120.841675
+=======
+    m_Value: {x: 0.10402775, y: -0.14271331, z: 0.015082454, w: 0.98416644}
+  m_Size:
+    m_Target: 9.823012
+    speed: 2
+    m_Value: 9.400012
+>>>>>>> parent of f56a40a... Maya Import Test
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -664,10 +733,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 248
     y: 75
     width: 754
     height: 405
+=======
+    x: 507
+    y: 94
+    width: 1532
+    height: 790
+>>>>>>> parent of f56a40a... Maya Import Test
   m_ViewDataDictionary: {fileID: 0}
   m_SerializedViewNames: []
   m_SerializedViewValues: []
@@ -677,10 +753,14 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
+<<<<<<< HEAD
   m_TargetSize: {x: 754, y: 384}
+=======
+  m_TargetSize: {x: 640, y: 480}
+>>>>>>> parent of f56a40a... Maya Import Test
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
-  m_RenderIMGUI: 1
+  m_RenderIMGUI: 0
   m_MaximizeOnPlay: 0
   m_VSyncEnabled: 0
   m_Gizmos: 0
@@ -691,10 +771,17 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
+<<<<<<< HEAD
     m_HBaseRangeMin: -377
     m_HBaseRangeMax: 377
     m_VBaseRangeMin: -192
     m_VBaseRangeMax: 192
+=======
+    m_HBaseRangeMin: -766
+    m_HBaseRangeMax: 766
+    m_VBaseRangeMin: -395
+    m_VBaseRangeMax: 395
+>>>>>>> parent of f56a40a... Maya Import Test
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -711,17 +798,26 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
+<<<<<<< HEAD
       y: 21
       width: 754
       height: 384
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 377, y: 192}
+=======
+      y: 0
+      width: 1532
+      height: 790
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 766, y: 395}
+>>>>>>> parent of f56a40a... Maya Import Test
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
       x: -377
       y: -192
       width: 754
@@ -729,6 +825,15 @@ MonoBehaviour:
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 754, y: 405}
+=======
+      x: -766
+      y: -395
+      width: 1532
+      height: 790
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 1532, y: 790}
+>>>>>>> parent of f56a40a... Maya Import Test
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000

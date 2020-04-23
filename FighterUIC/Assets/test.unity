@@ -122,6 +122,7 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &992909267
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -507,6 +508,8 @@ Transform:
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 >>>>>>> 4be39f0f0b2eb6874171d2e1d0161c341e2c168f
+=======
+>>>>>>> parent of f56a40a... Maya Import Test
 --- !u!1 &1045246052
 GameObject:
   m_ObjectHideFlags: 0
@@ -598,7 +601,7 @@ Transform:
   m_LocalScale: {x: 20, y: 1, z: 5}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1066252374
 GameObject:
@@ -694,10 +697,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 4
 =======
   m_RootOrder: 5
 >>>>>>> 4be39f0f0b2eb6874171d2e1d0161c341e2c168f
+=======
+  m_RootOrder: 3
+>>>>>>> parent of f56a40a... Maya Import Test
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!54 &1066252379
 Rigidbody:
@@ -888,5 +895,5 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
