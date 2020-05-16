@@ -10,5 +10,6 @@ public class PMovement : MonoBehaviour
     void Update()
     {
         anim.SetFloat("Horizontal", Input.GetAxis("Horizontal"));
+        anim.SetFloat("Vertical", Input.GetAxis("Vertical"));
     }
 }
