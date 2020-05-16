@@ -28,7 +28,7 @@ public class CenterCamera : MonoBehaviour
     void FixedUpdate()
     {
 
-        newTransform = new Transform();
+        //newTransform
 
     }
 }
