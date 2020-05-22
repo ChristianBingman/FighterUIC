@@ -626,20 +626,6 @@ Animator:
     type: 3}
   m_PrefabInstance: {fileID: 2019925276}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &926076258
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 926076255}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e5ff69ca1754448c2bf949aa0d935e12, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  anim: {fileID: 926076256}
-  height: 2
 --- !u!143 &926076259
 CharacterController:
   m_ObjectHideFlags: 0
@@ -670,9 +656,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e18f14d777ffc97499f1cf62bf6616b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  anim: {fileID: 926076256}
   moveSpeed: 6
   jumpSpeed: 8
-  gravity: 20
+  gravity: 10
 --- !u!1 &1169697973
 GameObject:
   m_ObjectHideFlags: 0
