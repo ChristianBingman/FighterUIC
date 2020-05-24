@@ -7,6 +7,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     CharacterController characterController;
+    public Animator anim;
 
     public float moveSpeed = 6.0f;
     public float jumpSpeed = 8.0f;
@@ -23,14 +24,17 @@ public class PlayerMovement : MonoBehaviour
     {
         if (characterController.isGrounded)
         {
+            anim.SetFloat("Vertical", 0);
             // We are grounded, so recalculate
             // move direction directly from axes         
             moveDirection = new Vector3(Input.GetAxis("Horizontal"), 0.0f, 0.0f);
             moveDirection *= moveSpeed;
+            anim.SetFloat("Horizontal", Input.GetAxis("Horizontal"));
 
             if (Input.GetButton("Jump"))
             {
                 moveDirection.y = jumpSpeed;
+                anim.SetFloat("Vertical", 1);
             }
         }
 
