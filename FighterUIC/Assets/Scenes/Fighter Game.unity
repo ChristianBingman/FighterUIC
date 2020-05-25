@@ -658,8 +658,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   anim: {fileID: 926076256}
   moveSpeed: 6
-  jumpSpeed: 8
-  gravity: 10
+  jumpSpeed: 9
+  gravity: 20
 --- !u!1 &1169697973
 GameObject:
   m_ObjectHideFlags: 0
